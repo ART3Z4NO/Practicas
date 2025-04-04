@@ -1,1 +1,22 @@
+Parte 2: Git
+
+1. ¿Qué comando se usa para iniciar un nuevo repositorio de Git en un proyecto local?
+Respuesta:
+// pasado el tiempo de entrega se publicará la solución de la práctica aquí
+
+2. ¿Cómo clonarías un repositorio remoto desde GitHub?
+Respuesta:
+// pasado el tiempo de entrega se publicará la solución de la práctica aquí
+
+3. Explica los pasos para hacer un commit de los cambios en un archivo index.js.
+Respuesta:
+// pasado el tiempo de entrega se publicará la solución de la práctica aquí
+
+4. ¿Qué comando se usa para inicializar un repositorio local con una rama llamada feature-login?
+Respuesta:
+// pasado el tiempo de entrega se publicará la solución de la práctica aquí
+
+5. ¿Qué comando envía los commits locales a la rama main del repositorio remoto?
+Respuesta:
+// pasado el tiempo de entrega se publicará la solución de la práctica aquí
 
