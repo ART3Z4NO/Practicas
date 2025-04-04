@@ -1,8 +1,8 @@
 //Parte 1 javascript
 
 // 1. Variables y Tipos de Datos
-let nombre = "TuNombre";
-let edad = 20;
+let nombre = "Fabricio";
+let edad = 22;
 console.log(`Hola, mi nombre es ${nombre} y tengo ${edad} años.`);
 
 // 2. Operadores
@@ -37,8 +37,8 @@ console.log(frutas);
 
 // 7. Objetos
 let usuario = {
-  nombre: "TuNombre",
-  edad: 20
+  nombre: "Fabricio",
+  edad: 22
 };
 
 for (let clave in usuario) {
