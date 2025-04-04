@@ -1,5 +1,7 @@
 //Parte 1 javascript
 
+//NOMBRE: LUIS FABRICIO VALLE AVIZA   CI: 8654391    RU:99302
+
 // 1. Variables y Tipos de Datos
 let nombre = "Fabricio";
 let edad = 22;
