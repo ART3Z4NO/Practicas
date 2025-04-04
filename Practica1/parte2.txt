@@ -1,4 +1,5 @@
 Parte 2: Git
+NOMBRE: LUIS FABRICIO VALLE AVIZA   CI: 8654391    RU:99302
 
 1. ¿Qué comando se usa para iniciar un nuevo repositorio de Git en un proyecto local?
 Respuesta:
